@@ -1,0 +1,19 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "date": "2026-09-28",
+            "amount": 120.0,
+            "category": "Food",
+            "note": "Canteen lunch"
+        },
+        {
+            "id": 2,
+            "date": "2026-09-29",
+            "amount": 80.0,
+            "category": "Transport",
+            "note": "Bus"
+        }
+    ],
+    "budget": 5000.0
+}

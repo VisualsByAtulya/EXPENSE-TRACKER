@@ -1,0 +1,23 @@
+Sample output
+
+========================================
+        STUDENT EXPENSE TRACKER
+========================================
+1. Add expense
+2. View all expenses
+3. Monthly report
+4. Category report
+5. Delete expense
+6. Set monthly budget
+7. View budget status
+0. Exit
+========================================
+
+Example:
+ALL EXPENSES
+--------------------------------------------------------
+ID  Date        Category        Amount       Note
+1   2026-09-28  Food            Rs. 120.00   Canteen lunch
+2   2026-09-29  Transport       Rs. 80.00    Bus
+--------------------------------------------------------
+Total: Rs. 200.00
